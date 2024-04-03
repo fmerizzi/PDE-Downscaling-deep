@@ -17,6 +17,13 @@ To generate the grid with the coast-line, simply run the `generate_grid.py` file
 ## Requirements
 Basic Python libraries for Numerical Analysis are required, such as `numpy`, `matplotlib`, `scipy`, ...
 
+# Deep results
+
+![image](https://github.com/fmerizzi/PDE-Downscaling-deep/blob/main/results/comparison_epoch_113.png) 
+![image](https://github.com/fmerizzi/PDE-Downscaling-deep/blob/main/results/comparison_epoch_141.png) 
+![image](https://github.com/fmerizzi/PDE-Downscaling-deep/blob/main/results/comparison_epoch_159.png) 
+
+
 ## Authors
 - **Davide Evangelista** (davide.evangelista5@unibo.it)
 - **Andrea Asperti** (andrea.asperti@unibo.it)
